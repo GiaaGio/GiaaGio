@@ -5,7 +5,7 @@
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 
-👩‍💻 I’m an undergraduate Web Design and Development student, passionate about creating digital experiences that are not only functional but also engaging and user-friendly. My main focus is on UX/UI design, where I love blending creativity, usability, and aesthetics to deliver meaningful interfaces.
+👩‍💻 I’m an Web Design and Development student, passionate about creating digital experiences that are not only functional but also engaging and user-friendly. My main focus is on UX/UI design, where I love blending creativity, usability, and aesthetics to deliver meaningful interfaces.
 
 💡 Skilled in HTML, CSS, PHP, JAVA and JavaScript, I enjoy working on projects that combine design and development, especially those that challenge me to think from the user’s perspective.
 
@@ -25,4 +25,9 @@ Figma & Design Systems to enhance UI design workflows
 
 🤝 I’m open to collaborating on projects that allow me to explore new design ideas, improve user experiences, and grow as both a designer and developer.
 
-
+<h3 align="left">Connect with me:</h3>  
+<p align="left">  
+<a href="https://twitter.com/shaancodes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shaancodes" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/shaan-alam-01784018a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shaan-alam-01784018a" height="30" width="40" /></a>  
+<a href="https://instagram.com/__shaanalam__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__shaanalam__" height="30" width="40" /></a>  
+</p> 
