@@ -30,4 +30,7 @@ Figma & Design Systems to enhance UI design workflows
 <a href="https://x.com/Gggi_Gggi?t=6KxD7TZ91HxaRf4fllEBnQ&s=09" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shaancodes" height="30" width="40" /></a>  
 <a href="https://www.linkedin.com/in/gianella-giovana-poma-atahuaman-710b64341" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shaan-alam-01784018a" height="30" width="40" /></a>  
 <a href="https://www.instagram.com/eolyne_g?igsh=ZjdzNTV3dGs1NTJ6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__shaanalam__" height="30" width="40" /></a>  
-</p> 
+</p>
+
+<img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+
