@@ -24,6 +24,14 @@ Digital Branding
 Figma & Design Systems to enhance UI design workflows
 
 🤝 I’m open to collaborating on projects that allow me to explore new design ideas, improve user experiences, and grow as both a designer and developer.
+<h4> Languages </h4>
+<span>
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
+    
+</span>
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
